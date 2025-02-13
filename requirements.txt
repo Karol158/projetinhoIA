@@ -1,7 +1,4 @@
- streamlit 
- pandas 
- seaborn 
-matplotlib.pyplot
- plotly.express 
-sklearn.preprocessing
-LabelEncoder
+streamlit
+pandas
+plotly
+scikit-learn 
